@@ -1,0 +1,24 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+
+<HTML>
+<HEAD>
+	<TITLE>Пример простейшей таблицы</TITLE>
+</HEAD>
+
+<BODY  bgcolor="white">
+<table border="2" cellspacing="3" width="50%">
+<caption align="top">Заголовок таблицы</caption>
+<tr>
+	<td width="80%" align="center">Таблица в 50% ширины экрана.
+	Столбец в 80% ширины таблицы.</td>
+	<td>Ячейка 2</td>
+</tr>
+<tr>
+	<td>Ячейка 3</td>
+	<td>Ячейка 4</td>
+</tr>
+</table>
+
+
+</BODY>
+</HTML>
